@@ -1,7 +1,4 @@
 ## About this project:
-A JavaScript implementation of stunningly gorgeous fractal tree. 
-
-## What is the fractal tree?
-A fractal is a pattern that the laws of nature repeat at different scales. Examples are everywhere in the forest. Trees are natural fractals, patterns that repeat smaller and smaller copies of themselves to create the biodiversity of a forest.
+I was interested in the lecture about fractal structures in this course [Chaotic Dynamics](https://home.cs.colorado.edu/~lizb/) and impressed by the [beauty](http://paulbourke.net/fractals/googleearth/) of these infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop. Here is a JavaScript implementation of a stunningly gorgeous fractal tree. 
 
 ![](/demo_large.gif)
